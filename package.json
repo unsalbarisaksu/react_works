@@ -1,0 +1,23 @@
+{
+  "name": "react_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsalbarisaksu/react_works.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unsalbarisaksu/react_works/issues"
+  },
+  "homepage": "https://github.com/unsalbarisaksu/react_works#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
